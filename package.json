@@ -1,0 +1,9 @@
+{
+    "name": "contact-book",
+    "version": "1.0.0",
+    "scripts": {
+        "setup": "node setup.js && cd frontend && npm install",
+        "serve": "cd frontend && npm run serve",
+        "build": "cd frontend && npm run build"
+    }
+}
